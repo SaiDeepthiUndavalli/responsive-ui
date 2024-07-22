@@ -1,0 +1,34 @@
+
+.thanking-customers-section {
+  background-color: rgb(247, 245, 245)
+}
+.thanking-customers-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+  text-align: left;
+}
+.thanking-customers-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+  text-align: left;
+}
+.thanking-customers-section-img {
+  width: 270px;
+  margin-bottom: 20px;
+}
+.thanking-customers-section-modal-title {
+  color: #d0b200;
+  font-weight: 800;
+}
+.custom-button {
+  color: white;
+  background-color: red;
+  width: 200px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
